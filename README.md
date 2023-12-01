@@ -1,28 +1,9 @@
-### Hi there 👋
-
-<!--
-**Obaydul-Hasan-Nayeem/Obaydul-Hasan-Nayeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obaydul-Hasan-Nayeem&theme=dark)
--->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi There! I'm Obaydul Hasan Nayeem</h1>
 <h3 align="center">Python & Django Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Obaydul-Hasan-Nayeem&label=Profile%20views&color=0e75b6&style=flat" alt="Obaydul-Hasan-Nayeem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Obaydul-Hasan-Nayeem&theme=darkhub" alt="Obaydul-Hasan-Nayeem" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Obaydul-Hasan-Nayeem&theme=" alt="Obaydul-Hasan-Nayeem" /></a> </p>
 
 <div> <a href="https://twitter.com/@ObaydulNayeem" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ohnayeem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -54,12 +35,15 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/obaydulnayeem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="obaydulnayeem" /></a></p><br><br>
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obaydul-Hasan-Nayeem&layout=compact&theme=dark" alt=Obaydul-Hasan-Nayeem />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Obaydul-Hasan-Nayeem&show_icons=true&locale=en&theme=dark" alt="Obaydul-Hasan-Nayeem" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Obaydul-Hasan-Nayeem&theme=" alt="Obaydul-Hasan-Nayeem" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Obaydul-Hasan-Nayeem&theme=dark" alt="Obaydul-Hasan-Nayeem" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -71,6 +55,6 @@ Here are some ideas to get you started:
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Obaydul-Hasan-Nayeem&theme=dark" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Obaydul-Hasan-Nayeem&theme=dracula"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Obaydul-Hasan-Nayeem&theme=redical"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

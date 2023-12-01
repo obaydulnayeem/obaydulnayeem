@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obaydul-Hasan-Nayeem&theme=dark)
 -->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi There! Obaydul Hasan Nayeem</h1>
-<h3 align="center">subtitle goes here</h3>
+<h1 align="center">Hi There! I'm Obaydul Hasan Nayeem</h1>
+<h3 align="center">Python & Django Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Obaydul-Hasan-Nayeem&label=Profile%20views&color=0e75b6&style=flat" alt="Obaydul-Hasan-Nayeem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Obaydul-Hasan-Nayeem&theme=darkhub" alt="Obaydul-Hasan-Nayeem" /></a> </p>

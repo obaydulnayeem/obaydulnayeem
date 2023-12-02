@@ -2,7 +2,7 @@
 <h1 align="center">Hi There!</h1>
 
 <p>
-I am Obaydul Hasan Nayeem, a passionate backend developer with professional experience. I primarily work on Python and Django-based web applications, but I am capable of adapting to any technology as needed. Started learning to code back in 2019 with C. Since then I've never stopped learning and trying out new things. Have strong knowledge of Backend development with different tools and technologies. I have completed over 23 projects in Python, Django, C/C++, MySQL, SQLite, OOP, etc. 
+I am Obaydul Hasan Nayeem, a passionate <strong>backend developer</strong> with professional experience. I primarily work on <strong>Python and Django-based</strong> web applications, but I am capable of adapting to any technology as needed. Started learning to code back in 2019 with C. Since then I've never stopped learning and trying out new things. Have strong knowledge of Backend development with different tools and technologies. I have completed over 23 projects in Python, Django, C/C++, MySQL, SQLite, OOP, etc. 
 
 As for my code, I always strive to provide robust and elegant work that I can be proud of. I value clean code, maintainability, scalability, and documentation. I am currently developing my software architecture & problem-solving skills.
 </p>

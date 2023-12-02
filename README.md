@@ -7,7 +7,7 @@ I am Obaydul Hasan Nayeem, a passionate <strong>backend developer</strong> with 
 As for my code, I always strive to provide robust and elegant work that I can be proud of. I value clean code, maintainability, scalability, and documentation. I am currently developing my software architecture & problem-solving skills.
 </p>
 
-<h3>Please reach out to me: </h3>
+<h3>To reach out me: </h3>
 <p> <strong>Email:</strong> obaydulnayeem@gmail.com or </p>
 <p> <strong> Call / 𝘛𝘦𝘹𝘵 / 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: </strong>+𝟖𝟖𝟎 1709 164868 </p>
 <p> <strong> </p>Discord: </strong> obaydulnayeem </p>

@@ -5,21 +5,12 @@
 I am Obaydul Hasan Nayeem, a passionate backend developer with professional experience. I primarily work on Python and Django-based web applications, but I am capable of adapting to any technology as needed. Started learning to code back in 2019 with C. Since then I've never stopped learning and trying out new things. Have strong knowledge of Backend development with different tools and technologies. I have completed over 23 projects in Python, Django, C/C++, MySQL, SQLite, OOP, etc. 
 
 As for my code, I always strive to provide robust and elegant work that I can be proud of. I value clean code, maintainability, scalability, and documentation. I am currently developing my software architecture & problem-solving skills.
-
-Technical Skills: 
-Proficient: Python, C/C++, CSS3, Bootstrap5, HTML5
-Comfortable: Django, SQLite, MySQL
-Familiar: Tailwind, PostgreSQL, DRF
-Tools: Postman, Workbench, Git, GitHub
-Problem-Solving: Solved 375+ problems [Codeforces, Beecrowd, CodeChef, LeetCode, AtCoder]
-Participated in a few online & onsite programming contests [History & Progress Link]. I’ve also a good foundation in Data Structures & Algorithms.
-
-
-Please reach out to me:
-✉ obaydulnayeem@gmail.com or
-✆ Call / 𝘛𝘦𝘹𝘵 / 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: +𝟖𝟖𝟎 1709 164868
-Discord: obaydulnayeem
 </p>
+
+<p>Please reach out to me: </p>
+<p> Email: obaydulnayeem@gmail.com or </p>
+<p> Call / 𝘛𝘦𝘹𝘵 / 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: +𝟖𝟖𝟎 1709 164868 </p>
+<p> </p>Discord: obaydulnayeem </p>
 
 <h3 align="center">Python & Django Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Obaydul-Hasan-Nayeem&label=Profile%20views&color=0e75b6&style=flat" alt="Obaydul-Hasan-Nayeem" /> </p>

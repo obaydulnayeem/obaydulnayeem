@@ -2,12 +2,13 @@
 <h1 align="center">Hi There!</h1>
 
 <p>
-I am Obaydul Hasan Nayeem, a passionate <strong>backend developer</strong> with professional experience. I primarily work on <strong>Python and Django-based</strong> web applications, but I am capable of adapting to any technology as needed. Started learning to code back in 2019 with C. Since then I've never stopped learning and trying out new things. Have strong knowledge of Backend development with different tools and technologies. I have completed over 23 projects in Python, Django, C/C++, MySQL, SQLite, OOP, etc. 
+Assalaamu Alaikum! I’m Obaydul Hasan Nayeem, a passionate Software Developer with professional experience. I primarily work on Python and Django based web applications, but I am capable of adapting to any technology as needed. I started coding in 2019 with C and C++, and since then, I’ve completed over 23 projects using Python, Django, JavaScript, SQL, MySQL, PostgreSQL, MongoDB, Bootstrap, Tailwind CSS, and more. With expertise in OOP, Data Structures, and Algorithms, I focus on writing clean, scalable code and solving complex problems.
 
-As for my code, I always strive to provide robust and elegant work that I can be proud of. I value clean code, maintainability, scalability, and documentation. I am currently developing my software architecture & problem-solving skills.
+In addition to my technical expertise, I was honored as the Barishal Divisional Champion at the Mobile Apps & Games Festival 2023, organized by the ICT Ministry, Bangladesh. Beyond academics, I’ve been actively involved in teaching and leadership, serving as guest instructor, campus ambassador, and speaker at various tech events. My passion for continuous learning and leadership drives me to take on new challenges and make an impact.
 </p>
 
 <h3>To reach out me: </h3>
+<p> <strong>Personal Website:</strong> <a href="https://obaydulnayeem.onebyzeroedu.com/" target="_blank"></a> </p>
 <p> <strong>Email:</strong> obaydulnayeem@gmail.com or </p>
 <p> <strong> Call / 𝘛𝘦𝘹𝘵 / 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: </strong>+𝟖𝟖𝟎 1709 164868 </p>
 <p> <strong> </p>Discord: </strong> obaydulnayeem </p>

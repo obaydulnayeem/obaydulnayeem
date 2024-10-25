@@ -8,7 +8,7 @@ In addition to my technical expertise, I was honored as the Barishal Divisional 
 </p>
 
 <h3>To reach out me: </h3>
-<p> <strong>Personal Website:</strong> <a href="https://obaydulnayeem.onebyzeroedu.com/" target="_blank"></a> </p>
+<p> <strong>Personal Website:</strong> <a href="https://obaydulnayeem.onebyzeroedu.com/" target="_blank">Click Here</a> </p>
 <p> <strong>Email:</strong> obaydulnayeem@gmail.com or </p>
 <p> <strong> Call / 𝘛𝘦𝘹𝘵 / 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: </strong>+𝟖𝟖𝟎 1709 164868 </p>
 <p> <strong> </p>Discord: </strong> obaydulnayeem </p>
